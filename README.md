@@ -4,10 +4,13 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Nahuel Juarez
+- Vivo en El Palomar
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Entusiasmado por aprender ☝️🤓
+- Me interesa la filosofia🤔
+- Actualmente soy un Barista, entusiasta del cafe☕
+- Me gusta el Anime/Manga👺
+- Estoy intentando crear el habito de leer📖
